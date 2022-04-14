@@ -92,6 +92,7 @@ pre code {
 
 .not-recommended {
     color: #cd0e3e;
+    background-color: #f5f5f5;    
 }
 
 a > i {
